@@ -3,5 +3,3 @@ version: '2'
 services:
   app:
     build: .
-    env_file:
-      - .env
